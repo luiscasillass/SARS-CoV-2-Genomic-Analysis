@@ -1,5 +1,5 @@
 #Luis Andres Casillas Casillas A01645008
-#Nubia Selene Garcidueñas Barajas A01352303
+# Proyecto Integrador
 
 library(seqinr)
 
